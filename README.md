@@ -1,4 +1,4 @@
-<h1>DATABASE</h1>
+<h1>DATABASE MYSQL</h1>
 
 `show databases;` //show all databases
 `create databases name_db;` //create databases
